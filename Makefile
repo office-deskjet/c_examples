@@ -1,4 +1,4 @@
-src = scanf
+src = temp
 THREE = 3
 flags = -Wall -Wextra -g -pedantic -std=c99 
 
